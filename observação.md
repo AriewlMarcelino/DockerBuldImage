@@ -29,3 +29,8 @@
     - A final da instalação termos o seguinte resultado:
     
     ![docker1](https://user-images.githubusercontent.com/105161714/235471297-ec0915a6-2515-40a5-8a87-998b2f7d2756.PNG)
+    
+    - E teremos a nossa imagem no docker também !
+    
+    - ![docker4](https://user-images.githubusercontent.com/105161714/235471704-7e19c019-5043-4214-b9e0-2d4de94afe13.PNG)
+
