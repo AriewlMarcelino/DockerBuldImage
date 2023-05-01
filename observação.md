@@ -34,3 +34,24 @@
     
     - ![docker4](https://user-images.githubusercontent.com/105161714/235471704-7e19c019-5043-4214-b9e0-2d4de94afe13.PNG)
 
+- Subindo o conteiner no docker
+
+    realizando toda construção da imagem de maneria personalizada, no nosso caso acima, temos que subir o nosso container com a imagem que construimos e como podemos fazer isso:
+
+
+    executamos o seguinte comando abaixo:
+    ![docker5](https://user-images.githubusercontent.com/105161714/235479342-41e2a8e8-0226-45e7-b6fb-70bed90279ff.PNG)
+    
+    feito o seguinte podemoremo ver o terminal emitir as seguinte mensagem
+    ![docker6](https://user-images.githubusercontent.com/105161714/235479743-f12286e5-f839-447d-b595-27a026d9aa56.PNG)
+    
+    E no docker vamos ver o seguinte continer com o nome que voce der, no meu caso dei um nome de exemplo como <br>meuBuildNginx<br>;
+    ![docker7](https://user-images.githubusercontent.com/105161714/235480547-1a28274f-48e6-4169-bcf9-89cb5382d746.PNG)
+    
+    Dai em frete você pode estar realizando dentro do docker a execução na web para verificar se esta funcionando, na parte da web, como exempplo abaixo:
+    ![docker8](https://user-images.githubusercontent.com/105161714/235483873-d0c8c415-0fb8-4b83-a61f-79c4bd8a6f65.PNG)
+
+
+    
+
+
