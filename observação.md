@@ -4,9 +4,14 @@
 
     
 
-    Na barra de informações onde esta p caminho , você colocara, a seguinte instrução CMD. Ele abrira o nosso prompt de comando do windowns.
+    Na barra de informações onde esta o caminho , você colocara, a seguinte instrução CMD. Ele abrira o nosso prompt de comando do windowns.
+    
+    ![docker2](https://user-images.githubusercontent.com/105161714/235471011-f0e78ccb-2a39-4ece-9f18-88f98d88ffa0.PNG)
 
     Feito o seguinte o primeiro comando para construir a nossa build é o seguinte.
+    
+    
+    ![docker3](https://user-images.githubusercontent.com/105161714/235471181-d62cbd9a-0706-49e6-b965-efaba916c343.PNG)
 
     - OBS: Sempre que criarmos uma imagem temos que passar o nome da imagem, e uma tag.
 
@@ -19,3 +24,8 @@
         - . => seria aonde ele encontria o nosso arquivo. Lembrando que . se refere se estiver na mesma pasta, se caso não estiver adicione o caminho da pasta on de esta o arquivo DockerFile.
 
        - docker build -t "nomeDaImagem:TagDaImagem" .
+
+
+    - A final da instalação termos o seguinte resultado:
+    
+    ![docker1](https://user-images.githubusercontent.com/105161714/235471297-ec0915a6-2515-40a5-8a87-998b2f7d2756.PNG)
